@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="diceText"> Current Number : </string>
+    <string name="DiceButtonText">Roll Dice</string>
+    <string name="ResetButtonText">Reset Game</string>
+    <string name="GameFinishedText">Congratulations!! Game Finished</string>
+    <string name="ValueExceedText">Can\'t move forward. Exceed value</string>
+</resources>
